@@ -30,5 +30,9 @@ The database follows normalization principles and uses primary and foreign key c
 3. Run `sample_data.sql`
 4. Execute queries from `queries.sql`
 
+## Query Output
+![SQL Output](images/output.png)
+
 ## 👩‍💻 Author
 Bhavana Gounalli
+
